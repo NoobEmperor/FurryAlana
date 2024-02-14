@@ -11,5 +11,8 @@ Or go horribly wrong. Best wishes.
 
 ## How
 
-### Stable Diffusion
-
+Tools: 
+- [Live2D](https://www.live2d.com/en/)
+- [VTube Studio](https://denchisoft.com/)
+- [Stable Diffusion](https://stability.ai/)
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
